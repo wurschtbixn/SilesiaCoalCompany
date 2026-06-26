@@ -1,0 +1,7 @@
+/.idea
+/.config
+gate.iml
+*.bkp
+*.dtmp
+/cmf
+*.code-workspace
