@@ -1,10 +1,10 @@
 {
   "name" : "Silesia Coal Company",
   "id" : "com.github.your-github-name.your-repo-name",
-  "version" : "0.1.0",
+  "version" : "0.1.1",
   "game_id" : "victoria3",
   "picture" : "thumbnail.png",
-  "supported_game_version" : "1.13.8",
+  "supported_game_version" : "1.13.9",
   "short_description" : "adds a coal company with prestige coal in Silesia",
   "tags" : [],
   "relationships" : [],
