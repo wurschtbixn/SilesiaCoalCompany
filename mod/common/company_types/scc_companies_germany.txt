@@ -35,11 +35,7 @@ company_silesia_coal = {
 			state_region = s:STATE_UPPER_SILESIA
 			is_incorporated = yes
 			any_scope_building = {
-				OR = {
-					is_building_type = building_coal_mine
-					#is_building_type = building_arms_industry
-					#is_building_type = building_artillery_foundry
-				}
+				is_building_type = building_coal_mine
 				level >= 5
 			}
 		}
