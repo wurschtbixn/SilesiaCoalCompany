@@ -1,12 +1,14 @@
 {
   "name" : "Silesia Coal Company",
-  "id" : "com.github.your-github-name.your-repo-name",
-  "version" : "0.1.1",
+  "id" : "com.github.wurschtbixn.SilesiaCoalCompany",
+  "version" : "0.1.2",
   "game_id" : "victoria3",
   "picture" : "thumbnail.png",
   "supported_game_version" : "1.13.9",
   "short_description" : "adds a coal company with prestige coal in Silesia",
-  "tags" : [],
+  "tags" : [
+    "Economy And Buildings"
+  ],
   "relationships" : [],
   "game_custom_data" : {
     "multiplayer_synchronized" : true
