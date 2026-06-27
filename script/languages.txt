@@ -1,6 +1,0 @@
-braz_por
-french
-japanese
-polish
-russian
-turkish
